@@ -38,3 +38,30 @@ Follow these steps to set up and run the Spam Classifier on your machine:
    ```bash
    git clone https://github.com/yourusername/spam-classifier.git
    cd spam-classifier
+
+
+
+
+
+
+
+
+
+
+Example Messages
+Spam Messages
+These are examples that should be predicted as "Spam":
+
+"Congratulations! You have won a $1000 gift card. Claim now!"
+"Get a low-interest loan today with no credit check. Apply immediately!"
+"You have won a free iPhone! Click the link to claim your prize."
+"You’re one of the lucky winners of our $500 gift card. Reply YES to claim now."
+"We’ve detected suspicious activity in your bank account. Verify your information here."
+Not Spam Messages
+These are examples that should be predicted as "Not Spam":
+
+"Hey! Are we still on for dinner tonight?"
+"Good morning! Hope you have a great day ahead!"
+"Please find the attached document for the project."
+"Can you call me when you’re free? I need some advice."
+"Reminder: Your dentist appointment is scheduled for tomorrow at 10:00 AM."
